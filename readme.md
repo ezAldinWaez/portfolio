@@ -1,10 +1,11 @@
-# Folio 2019
+# Portfolio
 
 ## Setup
+
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
 
-``` bash
+```bash
 # Install dependencies
 npm install
 
@@ -15,3 +16,7 @@ npm run dev
 npm run build
 ```
 
+## Credits
+
+Original design and code by [Bruno Simon's folio-2019](https://github.com/brunosimon/folio-2019/), released under the MIT license.  
+This fork is for personal use and creative learning.
