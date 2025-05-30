@@ -42,29 +42,38 @@ export default class Resources extends EventEmitter
             { name: 'introArrowKeyBase', source: './models/intro/arrowKey/base.glb' },
             { name: 'introArrowKeyCollision', source: './models/intro/arrowKey/collision.glb' },
 
-            { name: 'introBBase', source: './models/intro/b/base.glb' },
-            { name: 'introBCollision', source: './models/intro/b/collision.glb' },
+            { name: 'introFullName1Base', source: './models/intro/fullName/1/base.glb' },
+            { name: 'introFullName1Collision', source: './models/intro/fullName/1/collision.glb' },
 
-            { name: 'introRBase', source: './models/intro/r/base.glb' },
-            { name: 'introRCollision', source: './models/intro/r/collision.glb' },
+            { name: 'introFullName2Base', source: './models/intro/fullName/2/base.glb' },
+            { name: 'introFullName2Collision', source: './models/intro/fullName/2/collision.glb' },
 
-            { name: 'introUBase', source: './models/intro/u/base.glb' },
-            { name: 'introUCollision', source: './models/intro/u/collision.glb' },
+            { name: 'introFullName3Base', source: './models/intro/fullName/3/base.glb' },
+            { name: 'introFullName3Collision', source: './models/intro/fullName/3/collision.glb' },
 
-            { name: 'introNBase', source: './models/intro/n/base.glb' },
-            { name: 'introNCollision', source: './models/intro/n/collision.glb' },
+            { name: 'introFullName4Base', source: './models/intro/fullName/4/base.glb' },
+            { name: 'introFullName4Collision', source: './models/intro/fullName/4/collision.glb' },
 
-            { name: 'introOBase', source: './models/intro/o/base.glb' },
-            { name: 'introOCollision', source: './models/intro/o/collision.glb' },
+            { name: 'introFullName5Base', source: './models/intro/fullName/5/base.glb' },
+            { name: 'introFullName5Collision', source: './models/intro/fullName/5/collision.glb' },
 
-            { name: 'introSBase', source: './models/intro/s/base.glb' },
-            { name: 'introSCollision', source: './models/intro/s/collision.glb' },
+            { name: 'introFullName6Base', source: './models/intro/fullName/6/base.glb' },
+            { name: 'introFullName6Collision', source: './models/intro/fullName/6/collision.glb' },
 
-            { name: 'introIBase', source: './models/intro/i/base.glb' },
-            { name: 'introICollision', source: './models/intro/i/collision.glb' },
+            { name: 'introFullName7Base', source: './models/intro/fullName/7/base.glb' },
+            { name: 'introFullName7Collision', source: './models/intro/fullName/7/collision.glb' },
 
-            { name: 'introMBase', source: './models/intro/m/base.glb' },
-            { name: 'introMCollision', source: './models/intro/m/collision.glb' },
+            { name: 'introFullName8Base', source: './models/intro/fullName/8/base.glb' },
+            { name: 'introFullName8Collision', source: './models/intro/fullName/8/collision.glb' },
+
+            { name: 'introFullName9Base', source: './models/intro/fullName/9/base.glb' },
+            { name: 'introFullName9Collision', source: './models/intro/fullName/9/collision.glb' },
+
+            { name: 'introFullName10Base', source: './models/intro/fullName/10/base.glb' },
+            { name: 'introFullName10Collision', source: './models/intro/fullName/10/collision.glb' },
+
+            { name: 'introFullName11Base', source: './models/intro/fullName/11/base.glb' },
+            { name: 'introFullName11Collision', source: './models/intro/fullName/11/collision.glb' },
 
             { name: 'introCreativeBase', source: './models/intro/creative/base.glb' },
             { name: 'introCreativeCollision', source: './models/intro/creative/collision.glb' },
